@@ -1,5 +1,5 @@
 ## Hi there 👋
-I’m currently learning Computer Science
+I’m currently learning Computer Science \n
 I’m looking for help with using GitHub in general
 How to reach me: vansin2006@gmail.com
 Pronouns: he/him
