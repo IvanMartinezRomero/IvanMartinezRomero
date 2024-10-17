@@ -3,7 +3,7 @@ I’m currently learning Computer Science
 
 I’m looking for help with using GitHub in general
 
-How to reach me: vansin2006@gmail.com
+How to reach me: ivan.mromero@edu.upct.es
 
 Pronouns: he/him
 <!--
