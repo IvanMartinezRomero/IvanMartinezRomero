@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning Computer Science
-- 🤔 I’m looking for help with using GitHub in general
-- 📫 How to reach me: vansin2006@gmail.com
-- 😄 Pronouns: he/him
+## I’m currently learning Computer Science
+I’m looking for help with using GitHub in general
+How to reach me: vansin2006@gmail.com
+Pronouns: he/him
 -->
